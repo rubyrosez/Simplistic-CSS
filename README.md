@@ -1,15 +1,15 @@
-# Cyan-Firewatch
+# Simplistic Collection
 
 Big thank you to Nirewen#6392, Jiiks, Maware#2031, Omniscient#7994, Zerthox#6648 and Hammock#6027 for helping with all of the CSS issues I encountered. Apologies if I have forgotten to mention anyone.
 
 
 Solid Green Simplistic:
 
-<img src="https://i.imgur.com/ud6fDfP.jpg"/>
+<img src="https://i.imgur.com/ibz3hRh.png"/>
 
 Green Background (Transparent)
 
-<img src="http://i.imgur.com/exNKYgU.png"/>
+<img src="https://i.imgur.com/exNKYgU.png"/>
 
 Solid Blue Simplistic
 
