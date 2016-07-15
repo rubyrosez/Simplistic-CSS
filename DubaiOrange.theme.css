@@ -18,8 +18,10 @@ Main Colors Used:
 */
 
 body {
-webkit-backface-visibility: hidden;
+-webkit-backface-visibility: hidden;
 }
+
+ .theme-dark .chat{background: transparent;}
 
 .app {
     background-image: url(https://wallpaperscraft.com/image/dubai_night_evening_sunset_orange_black_palm_trees_water_light_reflection_58546_2560x1600.jpg) !important;
@@ -2085,4 +2087,7 @@ div#voice-connection{
 
 
 .bda-slist .checkbox {margin-top: -116px;}
+
+
+
 

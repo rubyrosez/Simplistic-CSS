@@ -18,9 +18,10 @@ Main Colors Used:
 */
 
 body {
-webkit-backface-visibility: hidden;
+-webkit-backface-visibility: hidden;
 }
 
+ .theme-dark .chat{background: transparent;}
 .app {
     background-image: url(https://i.imgur.com/cobu685.png) !important;
 background-size: cover;}

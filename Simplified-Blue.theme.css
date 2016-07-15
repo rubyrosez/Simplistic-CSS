@@ -22,8 +22,10 @@ Main Colors Used:
 
 
 body {
-webkit-backface-visibility: hidden;
+-webkit-backface-visibility: hidden;
 }
+
+ .theme-dark .chat{background: transparent;}
 
 .app {
     background: #121212 !important;
