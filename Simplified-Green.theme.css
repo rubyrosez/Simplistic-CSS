@@ -22,6 +22,9 @@ body {
 -webkit-backface-visibility: hidden;
 }
 
+.layers { background: transparent !important;
+}
+
  .theme-dark .chat{background: transparent;}
 
 .app {

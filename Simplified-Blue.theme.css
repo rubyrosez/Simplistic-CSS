@@ -30,6 +30,8 @@ body {
 .app {
     background: #121212 !important;
 }
+.layers { background: transparent !important;
+}
 
 .callout-backdrop {
     background: #121212 !important;
