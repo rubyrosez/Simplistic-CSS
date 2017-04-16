@@ -12,8 +12,8 @@ Y8b  d8 db   8D db   8D   88   8D    88      88  .8D 88.     88  V888
 Main Colors Used:
 #FFB7C5 (255,183,197) - Light Pink
 #121212
-#3d3d3d
-#232323
+#656565
+#818181
 
 */
 
@@ -23,11 +23,11 @@ body {
 
  .theme-dark .chat{background: transparent;}
 .app {
-    background-image: url(https://i.imgur.com/cobu685.png) !important;
+    background-image: url(http://i.imgur.com/Y53Xoek.jpg) !important;
 background-size: cover;}
 
 .callout-backdrop {
-    background-image: url(https://i.imgur.com/cobu685.png) !important;
+    background-image: url(http://i.imgur.com/Y53Xoek.jpg) !important;
 background-size: cover;}
 
 #voice-connection {
